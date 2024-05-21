@@ -15,7 +15,7 @@
     "type": "FLUID"
   },
   "publishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "applicationVersion": 2,
   "isManualUpdate": false,
